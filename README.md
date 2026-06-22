@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aleks 👋
 
-<!--
-**av0904/av0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python, automation, Web3 tooling, and backend scripting.
 
-Here are some ideas to get you started:
+I use GitHub to document my progress, experiments, and small practical tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+* Python scripting
+* Automation tools
+* API integrations
+* Clean project structure
+* Git and GitHub workflow
+* Web3 research utilities
+
+## What I'm working on
+
+I'm gradually improving my coding skills by building small, practical projects and keeping my repositories organized.
+
+My goal is to write cleaner code, understand real project structure, and build tools that are useful in practice.
+
+## Tech I'm learning
+
+* Python
+* Git / GitHub
+* APIs
+* Automation
+* Basic backend development
+* Web3 tooling
+
+## Notes
+
+This profile is a work in progress. I'm using it as a public place to track learning, experiments, and small useful projects.
